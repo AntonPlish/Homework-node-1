@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "commander": "^9.4.1",
+    "nanoid": "^3.3.4",
+    "nodemon": "^2.0.20"
+  },
+  "name": "homework-node-1",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AntonPlish/Homework-node-1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AntonPlish/Homework-node-1/issues"
+  },
+  "homepage": "https://github.com/AntonPlish/Homework-node-1#readme"
+}
